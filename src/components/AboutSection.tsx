@@ -5,7 +5,7 @@ const skills = [
   { icon: Palette, label: "Branding & Logo", desc: "Identitet vizual unik" },
   { icon: Layout, label: "Social Media", desc: "Përmbajtje kreative" },
   { icon: PenTool, label: "Web Design", desc: "UI/UX moderne" },
-  { icon: Sparkles, label: "Product Design", desc: "Dizajn produktesh" },
+  { icon: Sparkles, label: "Web Development", desc: "Frontend & Backend" },
 ];
 
 const AboutSection = () => {
@@ -24,12 +24,13 @@ const AboutSection = () => {
               <span className="italic text-gradient-rose">frymëzojnë</span>
             </h2>
             <p className="text-muted-foreground font-body leading-relaxed mb-4">
-              Jam Saranda Tahiraj, dizajnere grafike me pasion për krijimin e identiteteve vizuale 
-              që lënë përshtypje. Specializohem në branding, social media design dhe web design.
+              Jam Saranda Tahiraj, dizajnere grafike dhe web developer me pasion për krijimin e 
+              identiteteve vizuale që lënë përshtypje. Kam përfunduar Shkenca Kompjuterike në UMIB 
+              dhe specializohem në branding, social media design, web design dhe web development.
             </p>
             <p className="text-muted-foreground font-body leading-relaxed">
               Çdo projekt është një mundësi e re për të krijuar diçka të bukur dhe funksionale 
-              që komunikon mesazhin e duhur.
+              që komunikon mesazhin e duhur — qoftë dizajn grafik apo zhvillim web.
             </p>
           </motion.div>
 

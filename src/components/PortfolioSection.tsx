@@ -11,6 +11,7 @@ import cocktail from "@/assets/portfolio/cocktail.png";
 import honeyBee from "@/assets/portfolio/honey-bee.png";
 import airpods from "@/assets/portfolio/airpods.png";
 import medicalWeb from "@/assets/portfolio/medical-web.png";
+import arraAcademy from "@/assets/portfolio/arra-academy.png";
 
 const projects = [
   { src: hyper, title: "Hyper Logo", category: "Branding" },
@@ -23,6 +24,7 @@ const projects = [
   { src: honeyBee, title: "Honey Bee Logo", category: "Branding" },
   { src: arrarRent, title: "ARRA Rent", category: "Social Media" },
   { src: medicalWeb, title: "Medical Website", category: "Web Design" },
+  { src: arraAcademy, title: "ARRA Academy", category: "Web Design" },
 ];
 
 const categories = ["Të gjitha", "Social Media", "Branding", "Web Design"];
